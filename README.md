@@ -1,4 +1,4 @@
-#Kirby, Chosen Savior
+# Kirby, Chosen Savior
 
 In the days of Nintendo, when the universe of Super Smash Bros Ultimate was formed, there arose a great gathering of heroes and villains, drawn from the realms of gaming. Among them were Mario, the plumber of legend, and Link, the courageous wielder of the Master Sword. Together, they stood against the forces of darkness, led by the sinister Ganondorf and the malevolent Bowser.
 
